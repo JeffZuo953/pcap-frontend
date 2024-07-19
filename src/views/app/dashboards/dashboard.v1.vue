@@ -11,8 +11,8 @@
         >
           <i class="i-Add-User"></i>
           <div class="content">
-            <p class="text-muted mt-2 mb-0">New Leads</p>
-            <p class="text-primary text-24 line-height-1 mb-2">205</p>
+            <p class="text-muted mt-2 mb-0">购票人数</p>
+            <p class="text-primary text-24 line-height-1 mb-2">5948</p>
           </div>
         </b-card>
       </b-col>
@@ -22,8 +22,8 @@
         >
           <i class="i-Financial"></i>
           <div class="content">
-            <p class="text-muted mt-2 mb-0">Sales</p>
-            <p class="text-primary text-24 line-height-1 mb-2">$4021</p>
+            <p class="text-muted mt-2 mb-0">销售额</p>
+            <p class="text-primary text-24 line-height-1 mb-2">￥5,902,100</p>
           </div>
         </b-card>
       </b-col>
@@ -33,12 +33,12 @@
         >
           <i class="i-Checkout-Basket"></i>
           <div class="content">
-            <p class="text-muted mt-2 mb-0">Orders</p>
-            <p class="text-primary text-24 line-height-1 mb-2">80</p>
+            <p class="text-muted mt-2 mb-0">订单数</p>
+            <p class="text-primary text-24 line-height-1 mb-2">4879</p>
           </div>
         </b-card>
       </b-col>
-      <b-col lg="3" md="6" sm="12">
+      <!-- <b-col lg="3" md="6" sm="12">
         <b-card
           class="card-icon-bg card-icon-bg-primary o-hidden mb-30 text-center"
         >
@@ -48,7 +48,7 @@
             <p class="text-primary text-24 line-height-1 mb-2">$1200</p>
           </div>
         </b-card>
-      </b-col>
+      </b-col> -->
     </b-row>
 
     <b-row>
