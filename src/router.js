@@ -567,7 +567,7 @@ const routes = [
 ];
 
 const router = new Router({
-  mode: "history",
+  mode: "hash",
   linkActiveClass: "open",
   routes,
   scrollBehavior(to, from, savedPosition) {
